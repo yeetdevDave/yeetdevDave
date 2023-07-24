@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning JavaScript
+  
 <!--
 **yeetdevDave/yeetdevDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
