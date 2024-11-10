@@ -1,1 +1,1 @@
-alert('Hello World!')
+discord: obsolete_boi
